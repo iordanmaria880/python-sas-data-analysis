@@ -1,0 +1,526 @@
+ID,Name,Type,Price,ReviewsCount,Rating,City,State
+0,BUNK Hotel Amsterdam,Bunk Pod for 2,86.76,778,8.4,Amsterdam Noord, Amsterdam
+1,YOTEL Amsterdam,Premium Double Room,167.94,500,8.1,Amsterdam Noord, Amsterdam
+2,Multatuli Hotel,Double Room,143.69,1605,7.4,Amsterdam City Center, Amsterdam
+3,nhow Amsterdam Rai,nhow Double or Twin Room with View,141.39,500,9.0,Zuideramstel, Amsterdam
+4,Motel One Amsterdam,Double Room,104.18,500,8.8,Zuideramstel, Amsterdam
+5,INNSiDE by Meliá Amsterdam,The Innside Guestroom,155.35,1264,8.4,Zuideramstel, Amsterdam
+6,Eden Hotel Amsterdam,Small Double Room,220.66,500,8.3,Amsterdam City Center, Amsterdam
+7,citizenM Amsterdam South,King Room,156.27,500,8.8,Zuideramstel, Amsterdam
+8,The Alfred Hotel,Standard Double Room,139.21,2069,7.3,Oud Zuid, Amsterdam
+9,Andaz Amsterdam Prinsengracht - a concept by Hyatt,Observatory King,495.42,1140,8.9,Amsterdam City Center, Amsterdam
+10,Hyatt Regency Amsterdam,Twin Room,343.51,500,8.5,Amsterdam City Center, Amsterdam
+11,NH Collection Amsterdam Flower Market,Superior Double or Twin Room,323.30,500,8.6,Amsterdam City Center, Amsterdam
+12,ibis Styles Amsterdam Central Station,Small Double Room,195.78,500,7.9,Amsterdam City Center, Amsterdam
+13,Leonardo Royal Hotel Amsterdam,Queen Room - Disability Access,124.70,500,8.5,Oost, Amsterdam
+14,Rho Hotel,Standard Double or Twin Room,206.56,2974,8.0,Amsterdam City Center, Amsterdam
+15,Leonardo Boutique Museumhotel,Double or Twin Room,168.93,500,7.9,Oud Zuid, Amsterdam
+16,Hotel V Nesplein,Comfort Double or Twin Room,241.09,1278,8.9,Amsterdam City Center, Amsterdam
+17,"Kimpton De Witt Amsterdam, an IHG Hotel",1 Queen or King Bed Essential Room,380.79,500,8.8,Amsterdam City Center, Amsterdam
+18,Qbic Hotel WTC Amsterdam,Standard Double Room - No Window,88.91,500,7.9,Zuideramstel, Amsterdam
+19,Hotel Espresso,Small Double Room,142.91,1935,7.8,Oud West, Amsterdam
+20,Hotel Central Park,Double Room,74.73,518,6.8,Oud Zuid, Amsterdam
+21,The White Tulip Hostel,Standard Twin Bunk with Shared Bathroom,134.71,2064,7.0,Amsterdam City Center, Amsterdam
+22,Swissôtel Amsterdam,Classic Double Room,233.15,1629,8.6,Amsterdam City Center, Amsterdam
+23,"Holiday Inn Express Amsterdam - City Hall, an IHG Hotel",Double Room,190.39,500,8.4,Amsterdam City Center, Amsterdam
+24,Hotel Atlantis Amsterdam,Twin Room,101.52,1783,7.4,Oud Zuid, Amsterdam
+25,Holiday Home Green Resort Mooi Bemelen-19,Holiday Home,230.80,1,10.0,Bemelen,Limburg
+26,Holiday Home Green Resort Mooi Bemelen-2,Holiday Home,291.87,1,9.6,Bemelen,Limburg
+27,Holiday Home Green Resort Mooi Bemelen-12,Holiday Home,230.80,2,9.0,Bemelen,Limburg
+28,Holiday Home Green Resort Mooi Bemelen-31,Holiday Home,230.80,1,9.0,Bemelen,Limburg
+29,Holiday Home Green Resort Mooi Bemelen-15,Holiday Home,230.80,1,9.0,Bemelen,Limburg
+30,Holiday Home Green Resort Mooi Bemelen-10,Holiday Home,311.63,1,9.0,Bemelen,Limburg
+31,Holiday Home Green Resort Mooi Bemelen-13,Holiday Home,311.63,1,9.0,Bemelen,Limburg
+32,Holiday Home Green Resort Mooi Bemelen-16,Holiday Home,311.63,4,8.5,Bemelen,Limburg
+33,Resort Mooi Bemelen,Two-Bedroom House,130.22,1155,8.1,Bemelen,Limburg
+34,Holiday Home Green Resort Mooi Bemelen-6,Holiday Home,230.80,18,8.1,Bemelen,Limburg
+35,Holiday Home Green Resort Mooi Bemelen-3,Holiday Home,230.80,5,8.1,Bemelen,Limburg
+36,Holiday Home Green Resort Mooi Bemelen-17,Holiday Home,230.80,18,8.1,Bemelen,Limburg
+37,Holiday Home Green Resort Mooi Bemelen-21,Holiday Home,230.80,40,8.1,Bemelen,Limburg
+38,Holiday Home Green Resort Mooi Bemelen-10,Holiday Home,230.80,18,8.1,Bemelen,Limburg
+39,Holiday Home Green Resort Mooi Bemelen-4,Holiday Home,230.80,1,8.0,Bemelen,Limburg
+40,Holiday Home Green Resort Mooi Bemelen-11,Holiday Home,230.80,18,8.1,Bemelen,Limburg
+41,Holiday Home Green Resort Mooi Bemelen-32,Holiday Home,230.80,1,8.0,Bemelen,Limburg
+42,Holiday Home Green Resort Mooi Bemelen-33,Holiday Home,230.80,1,8.0,Bemelen,Limburg
+43,Holiday Home Green Resort Mooi Bemelen-20,Holiday Home,230.80,18,8.1,Bemelen,Limburg
+44,Holiday Home Green Resort Mooi Bemelen-18,Holiday Home,230.80,18,8.1,Bemelen,Limburg
+45,Holiday Home Green Resort Mooi Bemelen-14,Holiday Home,230.80,18,8.1,Bemelen,Limburg
+46,Holiday Home Green Resort Mooi Bemelen-5,Holiday Home,291.87,19,8.1,Bemelen,Limburg
+47,Holiday Home Green Resort Mooi Bemelen-3,Holiday Home,291.87,18,8.0,Bemelen,Limburg
+48,Holiday Home Green Resort Mooi Bemelen-7,Holiday Home,311.63,3,8.0,Bemelen,Limburg
+49,Holiday Home Green Resort Mooi Bemelen-12,Holiday Home,311.63,1,8.0,Bemelen,Limburg
+50,Anja's House,Double Room with Shared Bathroom,78.50,88,9.2,Breda,North Brabant
+51,B&B de Druif,Two-Bedroom Apartment,86.76,36,9.1,Breda,North Brabant
+52,Cottage Markdal,Two-Bedroom House,129.33,500,9.2,Breda,North Brabant
+53,Cosy Nock ! Little Gem at City Center with Large Terrace !,One-Bedroom Apartment,214.82,125,9.4,Breda,North Brabant
+54,Boutique Hotel Het Scheepshuys,Small Double Room with Shared Bathroom,76.34,353,8.7,Breda,North Brabant
+55,B&B de Bievangh,Double Room with Private Bathroom,76.43,131,8.5,Breda,North Brabant
+56,Hotel Sutor,Double Room,91.16,841,8.6,Breda,North Brabant
+57,"Hotel Nassau Breda, Autograph Collection","Superior, Guest room, 1 King",113.74,500,8.9,Breda,North Brabant
+58,Bliss Boutique Hotel,Suite,175.12,424,8.9,Breda,North Brabant
+59,Golden Tulip Keyser Breda Centre,Comfort Twin Room,92.19,500,8.2,Breda,North Brabant
+60,Leonardo Hotel Breda City Center,Deluxe Double or Twin Room,103.36,500,8.1,Breda,North Brabant
+61,Boutique Nouveau Van Ham,Classic Double Room,104.93,1013,8.4,Breda,North Brabant
+62,Ingenhousz Breda,Standard Suite,111.54,392,8.4,Breda,North Brabant
+63,Van der Valk Hotel Breda,Comfort Double Room with Shower,125.73,500,8.0,Breda,North Brabant
+64,Parkhotel Mastbosch Breda,Standard Twin Room,90.06,1136,7.7,Breda,North Brabant
+65,Stadshotel De Klok,Standard Twin Room,120.70,800,7.9,Breda,North Brabant
+66,Campanile Hotel & Restaurant Breda,Double Room,67.42,1123,7.2,Breda,North Brabant
+67,Bastion Hotel Breda,Comfort Twin Room,79.93,500,7.4,Breda,North Brabant
+68,Novotel Breda,Superior Double Room with Sofa Bed,97.89,1232,7.3,Breda,North Brabant
+69,Premiere Classe Hotel Breda,Double Room,43.87,709,6.5,Breda,North Brabant
+70,Hotel Arsenaal Delft,Double or Twin Room,145.94,108,9.2,Delft,South Holland
+71,The Student Hotel Delft,Superior Queen Room,69.16,500,8.8,Delft,South Holland
+72,WestCord Hotel Delft,Twin Standard,96.17,500,8.7,Delft,South Holland
+73,Hotel de Koophandel,Double Room,107.77,1047,8.7,Delft,South Holland
+74,Casa Julia,Deluxe Double Room,126.83,1136,8.7,Delft,South Holland
+75,Luxurious loft with view walk city center,One-Bedroom Apartment,210.85,61,8.6,Delft,South Holland
+76,De Vliegende Vos het geboortehuis van Johannes Vermeer,Family Suite,215.53,347,8.8,Delft,South Holland
+77,City Center Penthouse With Balcony Delft,One-Bedroom Apartment,225.89,67,8.9,Delft,South Holland
+78,Hotel Grand Canal,Small Double Room with Canal View,83.78,1069,8.4,Delft,South Holland
+79,Hampshire Hotel - Delft Centre,Standard Twin Room,92.15,500,8.2,Delft,South Holland
+80,Hotel Royal Bridges, Deluxe double or Twin Room,96.99,500,8.3,Delft,South Holland
+81,Hotel de Plataan Delft Centrum,Basic Double Room,103.28,500,8.1,Delft,South Holland
+82,Buitengoed De Uylenburg,Double Room,107.77,489,8.3,Delft,South Holland
+83,ibis Styles Delft City Centre,Standard Double Room with City View,110.01,526,8.1,Delft,South Holland
+84,Hotel Johannes Vermeer Delft,Deluxe Double Room,117.88,1562,8.3,Delft,South Holland
+85,Lux Loft Apt View Walk city center,One-Bedroom Apartment,264.51,14,8.1,Delft,South Holland
+86,Shanghai Hotel Holland,Double Room,77.25,1583,7.6,Delft,South Holland
+87,Best Western Museumhotels Delft,Standard Twin Room,84.94,662,7.9,Delft,South Holland
+88,Hotel Bridges House Delft,Deluxe Double Room with Shower,92.37,2171,7.9,Delft,South Holland
+89,Campanile Hotel & Restaurant Delft,Double Room,60.67,1943,7.1,Delft,South Holland
+90,Uylenhof Hotel,Double Room,133.82,677,9.2,Den Bosch,North Brabant
+91,Boutique Hotel De Blauwe Pauw,Superior Twin Room,139.21,549,9.4,Den Bosch,North Brabant
+92,Bossche Suites Stationsweg,Standard King Room,159.50,582,9.4,Den Bosch,North Brabant
+93,Bossche Suites No2 - Verwersstraat,Studio,215.53,249,9.3,Den Bosch,North Brabant
+94,CubaCasa,Deluxe Double Room with Balcony,98.34,252,8.6,Den Bosch,North Brabant
+95,Hotel The Stamp,Superior Double Room,106.69,891,8.7,Den Bosch,North Brabant
+96,Maison BON Apartments,Two-Bedroom Apartment,131.14,261,8.9,Den Bosch,North Brabant
+97,The Duke Boutique Apartments,One-Bedroom Apartment,123.75,500,8.5,Den Bosch,North Brabant
+98,Boutique hotel Jeroen,Small Double Room,134.43,95,8.5,Den Bosch,North Brabant
+99,The Duke Boutique Hotel,Comfort Double Room,126.49,500,8.6,Den Bosch,North Brabant
+100,Hotel 't Keershuys,Double Room,132.24,1143,8.9,Den Bosch,North Brabant
+101,KASerne Boutique Hotel,Deluxe Double Room,155.19,64,8.7,Den Bosch,North Brabant
+102,Kloosterhotel de Soete Moeder,Comfort Double or Twin Room with Private Bathroom,99.14,964,8.3,Den Bosch,North Brabant
+103,"The Den, 's-Hertogenbosch, a Tribute Portfolio Hotel",Deluxe Twin Room,98.47,166,8.3,Den Bosch,North Brabant
+104,Landgoed Huize Bergen Den Bosch - Vught,Double Room,112.62,500,8.0,Den Bosch,North Brabant
+105,Best Western Plus City Centre Hotel Den Bosch,Comfort Twin Room,131.14,500,8.4,Den Bosch,North Brabant
+106,Tussen Gracht en SintJan,Studio,160.75,158,8.0,Den Bosch,North Brabant
+107,Mövenpick Hotel 's Hertogenbosch,Classic King Room,120.43,500,7.7,Den Bosch,North Brabant
+108,Van der Valk Hotel 's-Hertogenbosch  Vught,Triple Room,130.22,500,7.9,Den Bosch,North Brabant
+109,Mely's House,Deluxe Double Room (2 Adults + 1 Child),71.84,4,7.0,Den Bosch,North Brabant
+110,Little Duke Hotel,Deluxe Double Room with Balcony,121.25,500,7.4,Den Bosch,North Brabant
+111,Fletcher Hotel-Restaurant s-Hertogenbosch,Standard Double Room,70.95,996,6.5,Den Bosch,North Brabant
+112,Campanile Hotel & Restaurant 's Hertogenbosch,Double Room,72.35,983,6.6,Den Bosch,North Brabant
+113,"Hof, a luxury B&B in the center of Eindhoven",Deluxe Suite,144.60,500,9.7,Strijp, Eindhoven
+114,Eindhoven4you,Twin Room with Bathroom,56.19,234,9.1,Strijp, Eindhoven
+115,Kazerne,Deluxe King Room,230.35,63,9.1,Eindhoven City Centre, Eindhoven
+116,cafe 't Vonderke,Deluxe Double or Twin Room,62.84,283,8.7,Strijp, Eindhoven
+117,Queen Hotel,King Room,67.40,3075,8.8,Eindhoven City Centre, Eindhoven
+118,Hotel Parkzicht Eindhoven,Comfort Double Room,68.57,500,8.6,Stratum, Eindhoven
+119,The Student Hotel Eindhoven,Standard Queen Room,69.16,500,8.8,Eindhoven City Centre, Eindhoven
+120,Hotel the Match,Standard Double Room,70.95,4566,8.7,Eindhoven City Centre, Eindhoven
+121,Design Hotel Glow,Deluxe Twin Room,73.61,1375,8.5,Eindhoven City Centre, Eindhoven
+122,Hotel Mariënhage,Monastery Mystery,100.86,2480,8.6,Eindhoven City Centre, Eindhoven
+123,Hotel Piet Hein Eek,Small Double Room,116.01,33,8.7,Strijp, Eindhoven
+124,Pullman Eindhoven Cocagne,Superior Twin Room,141.00,500,8.7,Eindhoven City Centre, Eindhoven
+125,NH Collection Eindhoven Centre,Superior Twin/Double Room ,149.97,500,8.7,Eindhoven City Centre, Eindhoven
+126,Hotel La Reine,Standard Twin Room,61.96,1672,8.3,Eindhoven City Centre, Eindhoven
+127,Winston B&B,Double Room with Shared Bathroom,62.87,785,8.2,Eindhoven City Centre, Eindhoven
+128,3BE Backpackers Bed & Breakfast Eindhoven,Single Bed in 14-Bed Dormitory Room,66.39,805,8.0,Eindhoven City Centre, Eindhoven
+129,Bastion Hotel Eindhoven Waalre,Deluxe King Room,68.26,500,8.1,Eindhoven,Eindhoven
+130,B&B Landgoed De Grote Beek,Double Room,70.22,1684,8.4,Woensel-Zuid, Eindhoven
+131,Crown Hotel Eindhoven Centre,Comfort Double Room,72.95,500,8.0,Eindhoven City Centre, Eindhoven
+132,Tulip Inn Eindhoven Airport,Standard Twin Room,73.61,500,8.0,Strijp, Eindhoven
+133,Boutiquehotel Sycamore - Protected City View - Free Parking,Double Room with Private Bathroom,76.01,500,8.4,Tongelre, Eindhoven
+134,Boutique Hotel Lumiere,Comfort Room without Daylight,89.49,2915,8.4,Eindhoven City Centre, Eindhoven
+135,Hotel Nassau,Double Room,90.88,914,8.1,Eindhoven City Centre, Eindhoven
+136,"Holiday Inn Eindhoven Centre, an IHG Hotel",Standard Double or Twin Room,98.47,500,8.4,Eindhoven City Centre, Eindhoven
+137,Park Plaza Eindhoven,Superior Double Room,103.46,500,8.0,Eindhoven City Centre, Eindhoven
+138,B&B Molenstreek,Deluxe King Room,88.91,500,9.5,Groningen,Groningen
+139,Byonz,Two-Bedroom House,340.37,58,9.8,Groningen,Groningen
+140,The Hogg House - a city delight for two,One-Bedroom Apartment,112.26,4,9.0,Groningen,Groningen
+141,Hakuna Matata - 4p apartment Groningen Center,One-Bedroom Apartment,125.73,9,9.3,Groningen,Groningen
+142,The Market Hotel,Double Room,140.10,500,9.1,Groningen,Groningen
+143,Prinsenhof,Superior Double Room,158.96,1281,9.2,Groningen,Groningen
+144,Pied à Terre Oostersingel UMCG,One-Bedroom Apartment,83.07,500,8.7,Groningen,Groningen
+145,The Happy Traveler - Guesthouse Groningen,Budget Double Room,86.22,824,8.5,Groningen,Groningen
+146,Hotel Miss Blanche,Standard Double Room,106.88,1292,8.8,Groningen,Groningen
+147,Cosy Aquarium for a couple or friends,One-Bedroom Apartment,112.26,2,8.5,Groningen,Groningen
+148,Asgard Hotel,Double Room,112.62,654,8.5,Groningen,Groningen
+149,Van der Valk Hotel Groningen-Hoogkerk,Standard Room,117.65,500,8.7,Groningen,Groningen
+150,Monumentaal vintage appartement,Three-Bedroom Apartment,123.94,80,8.5,Groningen,Groningen
+151,Hotel Corps de Garde,Comfort Room,138.30,717,8.9,Groningen,Groningen
+152,Bed & Breakfast De Barrels,Deluxe Apartment,171.75,181,8.7,Groningen,Groningen
+153,Best Western Apartments Groningen Centre,Apartment (6 Adults),184.11,500,8.6,Groningen,Groningen
+154,"Eco-Camping De Helleborus, Yurt, Bell & Safari tent, Pipo, Caravans, Dorms and Units",Tent (2 Adults) Tiny T. ,48.28,111,8.2,Groningen,Groningen
+155,The Student Hotel Groningen,Standard Queen Room,71.04,500,8.4,Groningen,Groningen
+156,Best Western Hotel Groningen Centre,Standard Twin Room,83.20,500,8.2,Groningen,Groningen
+157,Best Western Plus Hotel Groningen Plaza,Twin Room,84.87,2590,8.0,Groningen,Groningen
+158,City Hotel Groningen,City Double or Twin Room,89.72,500,8.2,Groningen,Groningen
+159,The Jungle - duo studio with kingsize terrace,One-Bedroom Apartment,112.26,2,8.0,Groningen,Groningen
+160,Neon Nights Studio,One-Bedroom Apartment,112.26,4,8.3,Groningen,Groningen
+161,Boutique Hotel De Doelen,Standard Double or Twin Room,115.31,1859,8.2,Groningen,Groningen
+162,Cessinas,Double Room with Private Bathroom,59.00,110,8.0,Groningen,Groningen
+163,MAF Haarlem Boutique Hotel,Queen Room,128.46,144,9.0,Haarlem,North Holland
+164,B&B Het Hart van Haarlem,Deluxe Studio with Kitchen,148.18,606,9.2,Haarlem,North Holland
+165,Cavallaro Hotel,Deluxe Room,183.44,31,9.1,Haarlem,North Holland
+166,Haarlem zuid,One-Bedroom Apartment,191.96,6,9.2,Haarlem,North Holland
+167,Boutique Hotel 't Vosje,Superior Suite,207.46,431,9.0,Haarlem,North Holland
+168,the niu Dairy,Standard Double or Twin Room,92.99,500,8.5,Haarlem,North Holland
+169,Van der Valk Hotel Haarlem,Comfort Double Room,100.63,500,8.6,Haarlem,North Holland
+170,Hotel ML,Comfort Room,116.75,883,8.6,Haarlem,North Holland
+171,Haarlem 49,Twin Room with Private Bathroom,118.59,144,8.6,Haarlem,North Holland
+172,Hotel Lion D'Or,Classic Double or Twin Room,118.59,2352,8.6,Haarlem,North Holland
+173,Hôtel Frenchie,Deluxe Room,145.04,172,8.9,Haarlem,North Holland
+174,Boutiquehotel Staats,Deluxe Room,151.78,713,8.9,Haarlem,North Holland
+175,Brasss Hotel Suites,Junior Suite Amazon,169.39,922,8.9,Haarlem,North Holland
+176,Haarlem Hotel Suites,Suite Kleine Hout 4,174.26,522,8.8,Haarlem,North Holland
+177,Hotel De Zoete Inval Haarlemmerliede,Comfort Twin Room,87.45,500,8.4,Haarlem,North Holland
+178,Anegang Boutique Hotel,Economy Twin Room,96.99,229,8.3,Haarlem,North Holland
+179,Carlton Square Hotel,Standard Double or Twin Room,113.16,1052,8.3,Haarlem,North Holland
+180,The Guestroom - B&B,Queen Studio,119.45,267,8.4,Haarlem,North Holland
+181,Amrâth Grand Hotel Frans Hals,Deluxe Twin Room,130.70,1730,8.0,Haarlem,North Holland
+182,Haarlem Apart Hotel,Quadruple Room with Private Bathroom,226.09,154,8.3,Haarlem,North Holland
+183,Stayokay Hostel Haarlem,Bed in 6-Bed Mixed Dorm with Shower,59.49,500,7.7,Haarlem,North Holland
+184,Amadeus Hotel,Budget Double Room,71.67,1281,7.7,Haarlem,North Holland
+185,Ambassador City Centre Hotel,Comfort Room,99.06,807,7.7,Haarlem,North Holland
+186,Bed and Breakfast Haarlem 1001 Nacht,Luxury Quadruple Room,137.36,748,7.8,Haarlem,North Holland
+187,Hotel Carillon,Double Room with Shower,81.05,542,5.5,Haarlem,North Holland
+188,Hotel Bries Den Haag - Scheveningen,Standard Suite,116.25,303,9.0,The Hague,The Hague
+189,COVE Centrum,Studio Apartments,114.99,451,9.0,The Hague City Centre, The Hague
+190,La Paulowna Boutique Hotel,Standard King Room,128.06,500,9.3,The Hague City Centre, The Hague
+191,Hotel Pistache Den Haag,Standard Suite,133.02,365,9.1,The Hague City Centre, The Hague
+192,Boutique Hotel Havenkantoor,One-Bedroom Apartment,145.00,7,9.1,Laak, The Hague
+193,The Collector Hotel,The Cabinet <double standard>,151.20,3136,9.2,The Hague City Centre, The Hague
+194,'t Goude Hooft,Deluxe Suite,214.90,375,9.0,The Hague City Centre, The Hague
+195,Stadsvilla Hotel Mozaic Den Haag,Deluxe Double Room,120.88,1299,8.9,The Hague City Centre, The Hague
+196,Boutique Hotel First City,Deluxe Double Room,124.83,887,8.8,The Hague City Centre, The Hague
+197,"voco The Hague, an IHG Hotel",Queen Room with Atrium View,129.01,500,8.7,The Hague City Centre, The Hague
+198,Boutique Hotel De Salon,Superior King Room,131.37,1018,8.8,The Hague City Centre, The Hague
+199,Carlton Ambassador,Standard Double Room,135.65,500,8.5,The Hague City Centre, The Hague
+200,Babylon Hotel Den Haag,Standard Twin Room,137.08,500,8.5,Haagse Hout, The Hague
+201,The Sunny Suite - R.Q.C.,One-Bedroom Apartment,142.79,46,8.8,The Hague City Centre, The Hague
+202,Boutique Hotel Corona,Comfort Room City View,152.44,3337,8.5,The Hague City Centre, The Hague
+203,"Hotel Indigo The Hague - Palace Noordeinde, an IHG Hotel",Standard Room,153.57,500,8.8,The Hague City Centre, The Hague
+204,Hotel Excelsior,Standard Triple Room,157.17,293,8.9,The Hague,The Hague
+205,"Staybridge Suites The Hague - Parliament, an IHG Hotel",Studio Suite Queen Bed,174.23,500,8.7,The Hague City Centre, The Hague
+206,Mövenpick Hotel The Hague,Classic King Room,185.10,1000,8.9,The Hague City Centre, The Hague
+207,Hotel Broer & Zus,Two-Bedroom Suite,206.92,16,8.5,The Hague City Centre, The Hague
+208,The Student Hotel The Hague,Executive Queen Room,62.74,500,8.3,The Hague City Centre, The Hague
+209,En Suite,Double Room,70.64,455,8.0,Segbroek, The Hague
+210,Staten Hotel,Double or Twin Room,85.32,484,8.2,The Hague,The Hague
+211,Riva hotel Den Haag - Delft,Standard Double Room,89.23,2125,8.4,The Hague,The Hague
+212,Park Centraal Den Haag,Comfort Double,97.22,500,8.3,The Hague City Centre, The Hague
+213,NinetyNine Amsterdam Airport,Double Room,92.15,751,8.5,Hoofddorp,North Holland
+214,Executive Residency by Best Western Amsterdam Airport,Comfort Double Room with Kitchenette,100.13,994,8.5,Hoofddorp,North Holland
+215,Novotel Amsterdam Schiphol Airport,Standard Room with Double Bed and One Sofa Bed,121.24,500,8.5,Hoofddorp,North Holland
+216,Hyatt Place Amsterdam Airport,King Room,122.90,500,8.5,Hoofddorp,North Holland
+217,Maxhotel Amsterdam Airport Schiphol,Small Double Room,74.54,500,8.0,Hoofddorp,North Holland
+218,IntercityHotel Amsterdam Airport,Double Room,90.67,40,8.4,Hoofddorp,North Holland
+219,Moxy Amsterdam Schiphol Airport,MOXY Sleeper Queen,96.10,349,8.3,Hoofddorp,North Holland
+220,The Florian Amsterdam Airport,Double Room,96.18,500,8.4,Hoofddorp,North Holland
+221,NH Amsterdam Schiphol Airport,Standard Double or Twin Room,99.68,500,8.4,Hoofddorp,North Holland
+222,Hampton by Hilton Amsterdam Airport Schiphol,Double Room,103.82,2683,8.0,Hoofddorp,North Holland
+223,Courtyard by Marriott Amsterdam Airport,Standard Queen Room with Two Queen Beds,116.39,754,8.1,Hoofddorp,North Holland
+224,Van der Valk Hotel A4 Schiphol,Superior Twin Room,119.56,3753,8.3,Hoofddorp,North Holland
+225,Wim's Place Amsterdam Airport / Hoofddorp,Deluxe Double Room (2 Adults + 1 Child),426.58,500,8.2,Hoofddorp,North Holland
+226,Floriande Bed & Breakfast,Deluxe Room,67.35,138,7.6,Hoofddorp,North Holland
+227,Bastion Hotel Amsterdam Airport,Deluxe Twin Room,88.91,500,7.6,Hoofddorp,North Holland
+228,"Holiday Inn Express Amsterdam - Schiphol, an IHG Hotel",Standard Double or Twin,112.35,1842,7.8,Hoofddorp,North Holland
+229,Hotel De Beurs,Business Double Room,125.73,557,7.7,Hoofddorp,North Holland
+230,Best Western Plus Amsterdam Airport Hotel,Deluxe Twin Room,84.41,500,7.1,Hoofddorp,North Holland
+231,Bastion Hotel Schiphol Hoofddorp,Comfort Twin Room,75.44,500,6.9,Hoofddorp,North Holland
+232,Cosy Cityhouse Leeuwarden,One-Bedroom House,112.08,142,9.1,Leeuwarden,Friesland
+233,B&B De Olde Signorie,Triple Room,148.48,500,9.4,Leeuwarden,Friesland
+234,Post-Plaza Hotel & Grand Café,Comfort Twin Room,93.12,2474,8.8,Leeuwarden,Friesland
+235,Van der Valk Hotel Leeuwarden,Deluxe Twin Room,100.63,1039,8.9,Leeuwarden,Friesland
+236,Stadslogies in Leeuwarden,Deluxe Double Studio,103.28,375,8.7,Leeuwarden,Friesland
+237,B&B De Dream,Deluxe Single Room,131.04,500,8.9,Leeuwarden,Friesland
+238,Guesthouse De Kleyne Sint Jacob,Double Room with Terrace,73.28,40,8.3,Leeuwarden,Friesland
+239,WestCord WTC Hotel Leeuwarden,Comfort Room,89.58,500,8.3,Leeuwarden,Friesland
+240,Oranje Hotel Leeuwarden,Standard Room,91.71,1725,8.4,Leeuwarden,Friesland
+241,Hotel & Restaurant Weidumerhout,Superior Double Room with Shower / Bath,107.77,500,8.3,Leeuwarden,Friesland
+242,Boutique hotel WKNDS,Deluxe Twin Room,109.07,482,8.1,Leeuwarden,Friesland
+243,In de Brouwerij,Superior Double Room,116.71,264,8.4,Leeuwarden,Friesland
+244,City Penthouse Mademoiselle Anna Louise,Penthouse Apartment,128.03,500,8.4,Leeuwarden,Friesland
+245,City House Grande Madame Agaath,Deluxe Two-Bedroom Apartment,146.65,500,8.0,Leeuwarden,Friesland
+246,Bastion Hotel Leeuwarden,Comfort Twin Room,79.93,500,7.6,Leeuwarden,Friesland
+247,City Boutique Ster Logies Leeuwarden De Roos,Small Comfort Twin Room,85.35,500,7.6,Leeuwarden,Friesland
+248,Eurohotel,Standard Double Room,92.69,2662,7.5,Leeuwarden,Friesland
+249,Fletcher Hotel Paleis Stadhouderlijk Hof,Comfort Double Room with Shower,115.85,2394,7.4,Leeuwarden,Friesland
+250,Studio in the city center of Leeuwarden,One-Bedroom Apartment,47.33,71,6.7,Leeuwarden,Friesland
+251,Op de woonboot in Leeuwarden!,Two-Bedroom House,79.37,824,8.3,Leeuwarden,Friesland
+252,Dormio Resort Maastricht Castellum Apartments,One-Bedroom Apartment,203.86,3,9.7,Maastricht,Maastricht
+253,BEAUMONT Maastricht,New Deluxe Room,348.45,948,8.5,Wijck, Maastricht
+254,Bourgogne Suite Maastricht,Deluxe Double Room superior,378.71,500,8.9,Wijck, Maastricht
+255,The Green Elephant Hostel & Spa,Private Pod in Mixed Dormitory Room,129.87,1864,8.4,Wijck, Maastricht
+256,Stayokay Hostel Maastricht,6 Person Room with Private Bathroom and Shower,161.66,500,8.3,Jekerkwartier, Maastricht
+257,Dormio Resort Maastricht Apartments,Comfort One-Bedroom Apartment,169.87,967,8.4,Maastricht,Maastricht
+258,Dormio Hotel De Prins van Oranje,Deluxe Twin Room,203.05,1149,8.3,Maastricht,Maastricht
+259,Dormio Resort Maastricht,Comfort Two-Bedroom House,226.26,715,8.2,Maastricht,Maastricht
+260,Townhouse Apartments,Large Studio Apartment,242.53,500,8.1,Wijck, Maastricht
+261,Kaboom Hotel Maastricht,Comfort Quadruple Room,249.98,3193,8.1,Wijck, Maastricht
+262,easyHotel Maastricht City Centre,Triple Room,273.01,3576,8.0,Maastricht City Centre, Maastricht
+263,"city Apartment ""Op de Thermen""",Two-Bedroom Apartment,336.78,98,8.2,Maastricht City Centre, Maastricht
+264,Hotel Monastère Maastricht,Twin Room,356.87,3772,8.0,Boschstraatkwartier, Maastricht
+265,Townhouse Design Hotel & Spa,Large Double Room,257.84,2655,7.9,Wijck, Maastricht
+266,Bastion Hotel Maastricht Centrum,Deluxe King Room,277.51,500,7.5,Boschstraatkwartier, Maastricht
+267,Derlon Hotel Maastricht,Deluxe Twin or Double Room,373.67,1223,7.9,Maastricht City Centre, Maastricht
+268,NH Maastricht,Standard Double or Twin Room,574.77,500,7.9,Randwijck, Maastricht
+269,"Crowne Plaza Maastricht, an IHG Hotel",Executive King Room,587.83,2510,7.6,Wijck, Maastricht
+270,Botel Maastricht,Family Room (6 Adults) with Shared Shower and Toilet,335.87,1342,6.7,Jekerkwartier, Maastricht
+271,Bed & Breakfast Adrichem en Scherpenseel,Forsyth,114.24,232,9.2,Middelburg,Zeeland
+272,B&B Montancourt-Middelburg,Twin Room,116.75,372,9.0,Middelburg,Zeeland
+273,Logement 't Oude Bierhuys,Double Room,121.24,817,9.1,Middelburg,Zeeland
+274,Logies aan de Dam,Deluxe Room,125.73,3,9.3,Middelburg,Zeeland
+275,B&B 't Poorthuys,Junior Suite,126.63,651,9.4,Middelburg,Zeeland
+276,Budget Hotel Le Beau Rivage,Small Double Room with Shower ,133.82,394,9.3,Middelburg,Zeeland
+277,Hotel Le Beau Rivage,Superior Double Room,175.12,278,9.2,Middelburg,Zeeland
+278,Boutique Hotel De Vier Patriciërs,Deluxe Room,223.62,192,9.3,Middelburg,Zeeland
+279,Hotel Bruno,Budget Twin Room,76.34,528,8.6,Middelburg,Zeeland
+280,Studio 82 b,One-Bedroom Apartment,78.05,51,8.5,Middelburg,Zeeland
+281,Studio 82 a,One-Bedroom Apartment,93.36,64,8.5,Middelburg,Zeeland
+282,Cleen Rochelle,Deluxe Studio,97.89,78,8.5,Middelburg,Zeeland
+283,Stadsstudio 't Stadshuys in hartje Middelburg,One-Bedroom Apartment,105.07,5,8.6,Middelburg,Zeeland
+284,Logement de Spaerpot,Double Room with Private Bathroom,107.77,164,8.9,Middelburg,Zeeland
+285,Loskade 45,Deluxe Double Room with Balcony,133.82,1050,8.9,Middelburg,Zeeland
+286,ApartHotel Waepen van Middelburg,Deluxe King Studio,134.71,500,8.9,Middelburg,Zeeland
+287,bednextdoor,Deluxe Double Studio,134.71,234,8.8,Middelburg,Zeeland
+288,Van der Valk Hotel Middelburg,Standard Twin Room,156.27,1315,8.8,Middelburg,Zeeland
+289,Hotel Brasserie de Huifkar,Double Room with City View,110.35,326,8.1,Middelburg,Zeeland
+290,De Kaepstander,Double Room with Private Bathroom,132.02,281,8.4,Middelburg,Zeeland
+291,Hotel en privé-wellness De Nieuwe Doelen,Superior Double Room,152.67,1312,8.2,Middelburg,Zeeland
+292,Hotel Middelburg,Twin Room,119.83,1240,7.7,Middelburg,Zeeland
+293,Fletcher Hotel-Restaurant Middelburg,Small Double Room,133.82,947,7.2,Middelburg,Zeeland
+294,Fletcher Hotel-Restaurant Arneville-Middelburg,Double Room,142.79,500,7.3,Middelburg,Zeeland
+295,Verrassende Loft BNB centrum Middelburg,Three-Bedroom Apartment,189.75,1,5.0,Middelburg,Zeeland
+296,Hotel Oranjestaete,Studio - Souterrain,107.77,1021,9.2,Nijmegen,Gelderland
+297,Hotel Sleep-Inn Box 5,Double Room,134.71,520,9.2,Nijmegen,Gelderland
+298,Boutique Hotel Straelman,Double Room,151.78,324,9.4,Nijmegen,Gelderland
+299,B&B Stadsoase Nijmegen,Two-Bedroom House,269.42,42,9.3,Nijmegen,Gelderland
+300,Van der Valk Hotel Nijmegen-Lent,Standard Double Room,110.46,500,8.8,Nijmegen,Gelderland
+301,Blue Inspired by Manna,Small Double Room,124.83,1081,8.7,Nijmegen,Gelderland
+302,Manna,Studio S Charity,133.82,388,8.7,Nijmegen,Gelderland
+303,B&B Appartementen Smedery,Deluxe Apartment,134.71,57,8.6,Nijmegen,Gelderland
+304,Studio RoSa,Studio Apartment,80.63,86,8.3,Nijmegen,Gelderland
+305,Van der Valk Cuijk - Nijmegen,Comfort Room,87.56,500,8.1,Nijmegen,Gelderland
+306,Mercure Hotel Nijmegen Centre,Standard Double Room,102.38,1343,8.2,Nijmegen,Gelderland
+307,Hotel Credible,Budget Double Room,148.46,935,8.4,Nijmegen,Gelderland
+308,Sanadome Nijmegen,Deluxe Double or Twin Room with Spa Access,175.12,725,8.0,Nijmegen,Gelderland
+309,Bastion Hotel Nijmegen,Deluxe King Room,93.40,500,7.8,Nijmegen,Gelderland
+310,Hotel Courage Waalkade,Standard Room with Park View,95.19,1467,7.7,Nijmegen,Gelderland
+311,Hotel Pauw,Budget Twin Room,108.67,368,7.8,Nijmegen,Gelderland
+312,Hotel de Prince,Premium Double Room,117.35,500,7.8,Nijmegen,Gelderland
+313,Hotel De Gulden Waagen,Double Room,215.53,500,7.8,Nijmegen,Gelderland
+314,De Hemel De Kracht van Ambacht,Junior Suite,91.61,94,7.0,Nijmegen,Gelderland
+315,Apollo Hotel,Twin Room,98.79,1172,7.4,Nijmegen,Gelderland
+316,B&B N10,Deluxe King Room,124.83,500,9.6,Roermond,Limburg
+317,De Pastorie Bed & Breakfast,Twin Room,94.05,923,9.2,Roermond,Limburg
+318,B&B De Hofnar Roermond,Standard Twin Room,94.30,509,9.1,Roermond,Limburg
+319,Grand Hotel Valies,Comfort Triple Room with Shower,147.28,3288,9.1,Roermond,Limburg
+320,Het Arresthuis,Comfort Double Room,174.23,500,9.4,Roermond,Limburg
+321,Kasteeltje Hattem,Junior Suite,178.72,240,9.3,Roermond,Limburg
+322,Hotel Dux,Executive Double Room,183.21,1232,9.2,Roermond,Limburg
+323,Hotel Restaurant Café Parkzicht,Double Room,73.28,694,8.9,Roermond,Limburg
+324,B&B Willem II,Twin Room with Private Bathroom,94.74,1118,8.8,Roermond,Limburg
+325,BBDeStaete,King Room with Balcony,109.16,107,8.8,Roermond,Limburg
+326,Nero Office Hotel & City Café,Standard Double or Twin Room,113.37,507,8.5,Roermond,Limburg
+327,De Oolderhof,Junior Suite,118.55,992,8.7,Roermond,Limburg
+328,Hotel Roermond,Suite,139.21,3272,8.7,Roermond,Limburg
+329,Hotel en Grand Café De Pauw,Standard Double Room,85.32,765,8.0,Roermond,Limburg
+330,Hotel Roermond Next Door,Comfort Twin Room,85.32,1088,8.0,Roermond,Limburg
+331,Hotel de Abdij,Triple Room,130.22,846,8.1,Roermond,Limburg
+332,Van der Valk TheaterHotel De Oranjerie,Comfort Double or Twin Room,150.88,500,8.3,Roermond,Limburg
+333,De Roermondse beleving,Twin Room with Shower,72.22,500,7.7,Roermond,Limburg
+334,Hotel Asselt,Standard Twin Room,92.50,782,7.4,Roermond,Limburg
+335,Fletcher Landhotel Bosrijk Roermond,Small Double Room,93.40,942,6.5,Roermond,Limburg
+336,Bed and Breakfast Rotterdam,Double Room with Private External Bathroom,74.73,244,9.1,Delfshaven, Rotterdam
+337,Hotel âme,Small Basic Room,97.48,167,9.1,Centrum, Rotterdam
+338,Suitehotel Pincoffs,Double Room with Mezzanine,118.59,500,9.0,Feijenoord, Rotterdam
+339,"Bed, Bites & Business Hotel Rotterdam",Double Room with Balcony,141.39,500,9.2,Feijenoord, Rotterdam
+340,Sparks Hostel,Comfort Quadruple Room,167.05,1635,9.0,Centrum, Rotterdam
+341,Wikkelboat Nr1 at Floating Rotterdam Rijnhaven,Two-Bedroom House,214.96,500,9.2,Feijenoord, Rotterdam
+342,Wikkelboat Nr5 at Floating Rotterdam Rijnhaven,Three-Bedroom House,401.38,500,9.0,Feijenoord, Rotterdam
+343,CityHub Rotterdam,Hub,65.18,500,8.8,Centrum, Rotterdam
+344,B&B Unitas,Standard Twin Room,68.86,184,8.8,Feijenoord, Rotterdam
+345,The James Rotterdam,Economy Double Room,77.64,6631,8.8,Centrum, Rotterdam
+346,Room Mate Bruno,Basic Room Double or Twin Room,92.07,500,8.7,Feijenoord, Rotterdam
+347,Savoy Hotel Rotterdam,Double Room,95.77,500,8.5,Centrum, Rotterdam
+348,Hotel New York,Double Room with Courtyard View,104.96,500,8.7,Feijenoord, Rotterdam
+349,Supernova Hotel,Standard Double Room,106.43,1000,8.9,Centrum, Rotterdam
+350,Hotel Unplugged,Standard Double Room,115.85,1723,8.5,Centrum, Rotterdam
+351,"The Slaak Rotterdam, a Tribute Portfolio Hotel",Standard King Room,121.37,1036,8.7,Kralingen-Crooswijk, Rotterdam
+352,citizenM Rotterdam,King Room,124.83,500,8.8,Centrum, Rotterdam
+353,PREMIER SUITES PLUS Rotterdam,One-Bedroom Apartment,127.57,500,8.9,Centrum, Rotterdam
+354,Hotel Van Walsum,Comfort Double or Twin Room,129.33,500,8.5,Centrum, Rotterdam
+355,Hostel ROOM Rotterdam,Family Room with Balcony and Shared Bathroom,150.94,1360,8.5,Centrum, Rotterdam
+356,Boathotel Rotterdam Wilhelmina,Apartment,302.29,22,8.6,Centrum, Rotterdam
+357,The Student Hotel Rotterdam,Standard Double,60.35,500,8.3,Kralingen-Crooswijk, Rotterdam
+358,Hotel Breitner,Standard Double Room,61.30,500,8.3,Centrum, Rotterdam
+359,ss Rotterdam Hotel en Restaurants,Twin Standard,71.93,500,8.3,Feijenoord, Rotterdam
+360,Stayokay Hostel Rotterdam,Twin Room with Private Bathroom and Shower,83.14,500,8.0,Centrum, Rotterdam
+361,Boulevard Hotel Scheveningen,Comfort Twin Room with Shower,132.46,1586,8.6,Scheveningen,The Hague
+362,Ramada The Hague Scheveningen,Standard Twin Room,141.90,500,8.5,Scheveningen,The Hague
+363,Aquarius Hotel,Comfort Double Room,143.69,2458,8.5,Scheveningen,The Hague
+364,Hotel De Stern,Budget Double Room,116.75,550,8.3,Scheveningen,The Hague
+365,Fletcher Hotel-Restaurant Scheveningen,Double Room,129.33,937,8.0,Scheveningen,The Hague
+366,limehome Den Haag Keizerstraat,Suite,138.30,500,8.4,Scheveningen,The Hague
+367,Inntel Hotels Den Haag Marina Beach,City Twin Room,143.69,1801,8.1,Scheveningen,The Hague
+368,De Pier Suites,Penthouse Room with Beach View,176.92,1567,8.4,Scheveningen,The Hague
+369,Sea Breeze loft apartment II,One-Bedroom Apartment,241.58,22,8.3,Scheveningen,The Hague
+370,easyHotel The Hague Scheveningen Beach,Standard Double Room,93.40,3724,7.6,Scheveningen,The Hague
+371,Badhotel Scheveningen,Standard Twin Room,110.46,3750,7.6,Scheveningen,The Hague
+372,Carlton Beach,Double Room with Balcony,136.51,500,7.7,Scheveningen,The Hague
+373,Jordans Residence,Studio with Sea View,162.55,610,7.6,Scheveningen,The Hague
+374,Hotel Albion,Deluxe Twin Room,214.19,324,7.6,Scheveningen,The Hague
+375,Hotel Andante aan Zee,Double Room,103.46,4276,7.2,Scheveningen,The Hague
+376,ibis Styles Den Haag Scheveningen,Standard Room,115.85,1218,7.4,Scheveningen,The Hague
+377,Bilderberg Europa Hotel Scheveningen,Comfort Double Room,133.82,500,7.1,Scheveningen,The Hague
+378,Hotel 't Sonnehuys,Double Room,153.57,247,7.2,Scheveningen,The Hague
+379,Grand Hotel Amrâth Kurhaus The Hague Scheveningen,Superior Double Room,172.48,7748,7.2,Scheveningen,The Hague
+380,Hotel 't Witte Huys Scheveningen,Double Room,165.24,758,6.6,Scheveningen,The Hague
+381,New City Hotel Scheveningen,Standard Double Room,107.77,1149,6.2,Scheveningen,The Hague
+382,Ben's Boutique Hotel,Standard Double Room,117.65,91,6.4,Scheveningen,The Hague
+383,Slapen onder de Dom,Deluxe Double Room,134.71,136,9.3,City Centre, Utrecht
+384,Logement Swaenenvecht,Deluxe Double Room,130.22,425,9.0,Utrecht,Utrecht
+385,Werfkelder aan de Oudegracht,Apartment,146.39,500,9.3,City Centre, Utrecht
+386,Logement Petit Beijers,Superior Double Room,140.10,362,9.4,City Centre, Utrecht
+387,MUZE Hotel Utrecht,Deluxe Double Room with Bath,148.18,418,9.3,City Centre, Utrecht
+388,The Nox Hotel,Small Double Room,148.18,351,9.0,City Centre, Utrecht
+389,Hotel Beijers,Standard Double Room,161.66,724,9.2,City Centre, Utrecht
+390,Stayokay Hostel Utrecht Centrum,Comfort Double with Private Bathroom and Shower,102.38,500,8.5,City Centre, Utrecht
+391,Eye Hotel,Small Double Room,120.30,500,8.7,City Centre, Utrecht
+392,Van der Valk Hotel Utrecht,Comfort Double Room,123.49,500,8.6,Zuidwest, Utrecht
+393,Inntel Hotels Utrecht Centre,City Double Room,129.33,3803,8.5,City Centre, Utrecht
+394,The Hunfeld,Small Double Room,130.97,903,8.7,City Centre, Utrecht
+395,Brass,Superior King Room,144.84,508,8.6,City Centre, Utrecht
+396,Mother Goose Hotel,Small Double Room,151.78,500,8.9,City Centre, Utrecht
+397,Hotel Simple,Deluxe Suite,145.49,787,8.7,City Centre, Utrecht
+398,B&B Utrecht Domkwartier,Large Double Room,159.07,241,8.7,City Centre, Utrecht
+399,Hotel Museumkwartier Utrecht,Twin Room with City View,160.75,656,8.8,City Centre, Utrecht
+400,Grand Hotel Karel V,Standard Double or Twin Room,171.57,500,8.9,City Centre, Utrecht
+401,Strowis Hostel,Standard Twin Room with Shared Bathroom,85.49,555,8.2,City Centre, Utrecht
+402,Carlton President,Standard Twin Room,105.07,500,8.4,West, Utrecht
+403,Moxy Utrecht,Queen Room,99.87,895,8.4,Zuid, Utrecht
+404,BUNK Hotel Utrecht,Bunk Room,107.77,3250,8.4,City Centre, Utrecht
+405,City Center Lodge Utrecht,bunk,112.26,265,8.2,Utrecht,Utrecht
+406,Hotel Mitland,Deluxe Double Room Ground Floor,119.20,500,8.3,Noordoost, Utrecht
+407,Hampton By Hilton Utrecht Centraal Station,Queen Room,125.73,500,8.4,City Centre, Utrecht
+408,Vakantiewoning Valkenburg,Two-Bedroom Apartment,114.06,500,9.2,Valkenburg,Limburg
+409,Appartementen Leonardus,One-Bedroom Apartment,124.83,612,9.1,Valkenburg,Limburg
+410,Villa R einald,Deluxe King Room,152.22,22,9.1,Valkenburg,Limburg
+411,Pension Auberge de Dael,Double Room with Private Bathroom,97.89,556,8.5,Valkenburg,Limburg
+412,Hotel De Wilde Kriek - before De Karsteboom,Small Double Room,107.77,524,8.6,Valkenburg,Limburg
+413,Boutique Hotel Scheepers,Economy Double Room,152.22,1125,8.6,Valkenburg,Limburg
+414,De Heek,Comfort Double Room with Shower,172.43,346,8.6,Valkenburg,Limburg
+415,Château St. Gerlach,One-Bedroom Apartment,277.51,500,8.6,Valkenburg,Limburg
+416,Huis Ter Geul,Double Room,86.22,500,8.1,Valkenburg,Limburg
+417,Hotel Valkenburg by Mercure,Comfort Double Room,113.16,2760,8.1,Valkenburg,Limburg
+418,Hotel Hulsman,Standard Double Room with Rain Shower,121.24,993,8.4,Valkenburg,Limburg
+419,Hampshire Hotel  Voncken Valkenburg,Double Room,161.66,753,8.0,Valkenburg,Limburg
+420,Hotel Lahaye,Standard Double Room with Shared Bathroom,49.39,903,7.7,Valkenburg,Limburg
+421,Grand Hotel Monopole,Comfort Double Room,80.83,988,7.9,Valkenburg,Limburg
+422,Dormio Wijnhotel Valkenburg,Standard Queen Room,88.91,739,7.6,Valkenburg,Limburg
+423,Hotel Dupuis,Quadruple Room with Bunk Beds and Shared Bathroom,117.65,611,7.9,Valkenburg,Limburg
+424,Mimosa Hotel,Standard Double Room with Shared Bathroom,118.55,542,7.6,Valkenburg,Limburg
+425,Hotel de L'Empereur,Standard Double Room,130.22,38,7.9,Valkenburg,Limburg
+426,Atlas Hotel,Classic Double Room,143.69,2102,7.8,Valkenburg,Limburg
+427,Hotel La Casa,Family Room,163.81,827,7.8,Valkenburg,Limburg
+428,Hotel Atlanta,Standard Double Room,185.00,1355,7.9,Valkenburg,Limburg
+429,Parkhotel Valkenburg,Standard Double Room,218.99,500,7.8,Valkenburg,Limburg
+430,Hotel Rido,Twin Room with Shared Bathroom,62.87,241,7.3,Valkenburg,Limburg
+431,Hotel Schaepkens van St Fijt,Standard Double Room,153.57,500,7.0,Valkenburg,Limburg
+432,Hotel Gaudi,Budget Double Room with Shared Bathroom,92.05,386,6.8,Valkenburg,Limburg
+433,Zeilschip Lucia,Mobile Home,193.99,5,9.6,Vlissingen,Zeeland
+434,De Gevangentoren Suite,Deluxe Suite with Sea View,369.86,172,9.5,Vlissingen,Zeeland
+435,Westerschelde B&B,Double Room with Balcony (2 Adults + 1 Child),89.66,500,9.2,Vlissingen,Zeeland
+436,Anna van Chiel,Junior Suite,138.81,43,9.3,Vlissingen,Zeeland
+437,Hotel de Timmerfabriek I Kloeg Collection,Court Lodge,143.57,500,8.6,Vlissingen,Zeeland
+438,La vie Est Belle Vlissingen,Two-Bedroom Chalet,162.94,500,8.7,Vlissingen,Zeeland
+439,"Rijksmonument Havenzicht, met zeezicht, ligging direct aan zee en centrum",Six-Bedroom House,353.49,528,8.5,Vlissingen,Zeeland
+440,Bed & Breakfast House of Grace,Double Room with Private Bathroom,96.99,13,8.4,Vlissingen,Zeeland
+441,Boutique Hotel Lupo,Small Double Room,124.83,431,8.4,Vlissingen,Zeeland
+442,Belgische Loodsensociëteit,Double Room with City View,127.17,500,8.0,Vlissingen,Zeeland
+443,Mo's place,One-Bedroom Apartment,137.08,21,8.0,Vlissingen,Zeeland
+444,Fletcher Hotel-Restaurant Arion-Vlissingen,Deluxe Double Room,187.69,2958,8.0,Vlissingen,Zeeland
+445,"Appartement Havenzicht, gelegen aan zee met zeezicht",Apartment with Sea View,275.89,528,8.2,Vlissingen,Zeeland
+446,Stad & Strandhotel Elisabeth,Double Room with Private External Bathroom,98.29,913,7.7,Vlissingen,Zeeland
+447,Hotel Restaurant Piccard,Standard Double Room (Pets not Allowed),114.66,784,7.6,Vlissingen,Zeeland
+448,Stadshotel Vlissingen,Standard Double Room,117.19,345,7.7,Vlissingen,Zeeland
+449,Hotelboot Koningin Emma I Kloeg Collection,Deluxe Room,141.78,500,7.5,Vlissingen,Zeeland
+450,Hotel Truida,Twin Room with City View (Elevator access),152.67,658,7.7,Vlissingen,Zeeland
+451,B&B by the C,Deluxe King Room,89.23,78,7.3,Vlissingen,Zeeland
+452,City Hostel Vlissingen,Comfort Quadruple Room,139.67,573,7.3,Vlissingen,Zeeland
+453,City2Beach Hotel,Comfort Twin Room,155.19,754,7.3,Vlissingen,Zeeland
+454,Bed & Breakfast Vlissingen,Double Room with Shared Bathroom,56.56,1167,6.9,Vlissingen,Zeeland
+455,Uniek verblijf aan zee,Caravan,108.64,15,6.9,Vlissingen,Zeeland
+456,Hotel De Leugenaar,Twin Room with City View,129.33,715,6.9,Vlissingen,Zeeland
+457,Cosy sailingboat in Vlissingen,Mobile Home,107.77,6,3.7,Vlissingen,Zeeland
+458,2-persoons Hotellodge,One-Bedroom Apartment,116.75,3,9.0,Voorthuizen,Gelderland
+459,The Black Oak - Luxe bungalow met prive sauna,Two-Bedroom House,193.99,27,9.4,Voorthuizen,Gelderland
+460,Bunckman 10 pers. bungalow,Five-Bedroom Apartment,268.52,18,8.5,Voorthuizen,Gelderland
+461,Voorde 16 pers. bungalow,Eight-Bedroom Apartment,484.96,2,8.5,Voorthuizen,Gelderland
+462,Hotel de Boshoek,Twin Room with Private Bathroom,93.51,567,8.5,Voorthuizen,Gelderland
+463,Studio Recreatiepark De Boshoek-5,Studio,83.52,3,8.3,Voorthuizen,Gelderland
+464,Studio Recreatiepark De Boshoek-2,Studio,83.52,8,8.4,Voorthuizen,Gelderland
+465,Studio Recreatiepark De Boshoek-4,Studio,83.52,1,8.0,Voorthuizen,Gelderland
+466,Ruim en fris chalet aan de bosrand,Two-Bedroom Chalet,81.91,1,8.0,Voorthuizen,Gelderland
+467,4 pers. Veluwelodge met Sauna,Two-Bedroom Apartment,140.10,1,8.0,Voorthuizen,Gelderland
+468,Landgoed De Ijsvogel,Double Room,165.26,500,8.0,Voorthuizen,Gelderland
+469,2 2-persoons Hotel kamer,Two-Bedroom Apartment,201.17,1,8.0,Voorthuizen,Gelderland
+470,Studio Recreatiepark De Boshoek-6,Studio,83.52,3,7.7,Voorthuizen,Gelderland
+471,6-persoons Veluwe Villa,Three-Bedroom Villa,141.90,4,7.8,Voorthuizen,Gelderland
+472,Wellness Lodges x De IJsvogel,One-Bedroom House,341.91,500,7.5,Voorthuizen,Gelderland
+473,Recreatiepark de Boshoek,Two-Bedroom Chalet,208.56,24,7.2,Voorthuizen,Gelderland
+474,Studio Recreatiepark De Boshoek-3,Studio,83.52,104,8.2,Voorthuizen,Gelderland
+475,4 pers. Veluwelodge,Two-Bedroom Apartment,120.34,104,8.2,Voorthuizen,Gelderland
+476,Heuveltjes 4 pers. bungalow,Two-Bedroom Apartment,124.83,104,8.2,Voorthuizen,Gelderland
+477,4 pers. Veluwelounge,Two-Bedroom Apartment,125.73,104,8.2,Voorthuizen,Gelderland
+478,6-persoons Veluwelodge XL,Three-Bedroom Apartment,126.63,104,8.2,Voorthuizen,Gelderland
+479,6-persoons Familielodge,Three-Bedroom House,130.22,104,8.2,Voorthuizen,Gelderland
+480,Zeumeren 6 pers. bungalow,Three-Bedroom Apartment,150.88,104,8.2,Voorthuizen,Gelderland
+481,6 pers. Veluwelodge XL met Sauna,Three-Bedroom Apartment,153.57,104,8.2,Voorthuizen,Gelderland
+482,6-person Veluwe Villa - copy -,Three-Bedroom House,166.14,104,8.2,Voorthuizen,Gelderland
+483,Pension Sixtysix,Deluxe Studio,94.47,262,9.1,Zandvoort,North Holland
+484,Queens Romantic Beachhouse,One-Bedroom Apartment,115.26,41,9.1,Zandvoort,North Holland
+485,Beach&Dunes Studio,Studio Apartment,154.41,49,9.1,Zandvoort,North Holland
+486,Het Lichthuis,One-Bedroom Apartment,179.17,500,9.0,Zandvoort,North Holland
+487,Boutique Hotel LEBAR,Deluxe King Studio,190.04,15,9.1,Zandvoort,North Holland
+488,BUDDHA BEACH BUNGALOWS Adults Only,One-Bedroom Chalet,302.17,500,9.1,Zandvoort,North Holland
+489,Queens Beachhouse,One-Bedroom Apartment,107.82,74,8.9,Zandvoort,North Holland
+490,Studio Wijkhuizen,Twin Room with Private Bathroom,111.54,122,8.7,Zandvoort,North Holland
+491,Hotel At Sea,Double Room with Terrace,152.86,500,8.9,Zandvoort,North Holland
+492,STRAND 21 hotelchalets,Superior Family Room with Sea View,206.56,625,8.9,Zandvoort,North Holland
+493,Boutique hotel Margretha,Superior Suite,208.21,500,8.8,Zandvoort,North Holland
+494,Amsterdam Beach Hotel,Double Room,146.25,1415,8.0,Zandvoort,North Holland
+495,Hotel Paradis,Standard Double or Twin Room with Balcony,164.51,500,8.2,Zandvoort,North Holland
+496,Hofje van Maas,Small Double Room,99.72,208,7.9,Zandvoort,North Holland
+497,Zaras Studios,Queen Studio,115.10,85,7.8,Zandvoort,North Holland
+498,Beachhotel Zandvoort by Center Parcs,2-person Premium Hotelroom,133.82,4375,7.8,Zandvoort,North Holland
+499,Hotel Zeespiegel,Double Room,107.77,2019,7.1,Zandvoort,North Holland
+500,Palace Hotel Zandvoort,Twin room-Landside,175.88,660,7.2,Zandvoort,North Holland
+501,Hotel Doppenberg,Junior Suite with Balcony,192.37,605,7.3,Zandvoort,North Holland
+502,budget rooms Doppenberg,Budget Twin Room,118.38,220,6.8,Zandvoort,North Holland
+503,Pension Marco,Double Room with Shared Bathroom,90.53,182,6.2,Zandvoort,North Holland
+504,De Langenlee,Double Room with Private Bathroom,89.80,229,9.4,Zwolle,Overijssel
+505,De Pelsertoren,Suite,107.77,712,9.0,Zwolle,Overijssel
+506,Pillows Grand Boutique Hotel Ter Borch Zwolle,Deluxe Room,157.17,916,9.1,Zwolle,Overijssel
+507,Librije's Hotel,Junior Suite,287.39,71,9.1,Zwolle,Overijssel
+508,Thorbecke Canal View,Superior Twin Room with City View,98.79,236,8.5,Zwolle,Overijssel
+509,B&B In de Kromme Jak,Double or Twin Room,102.38,349,8.5,Zwolle,Overijssel
+510,Hotel Lumen Zwolle,Comfort Double or Twin Room,107.77,2931,8.5,Zwolle,Overijssel
+511,Bilderberg Grand Hotel Wientjes,Classic Double Room,116.75,500,8.5,Zwolle,Overijssel
+512,Apart! Food & Drinks Apartments,Deluxe Double Room,124.83,532,8.8,Zwolle,Overijssel
+513,Van Der Valk Hotel Zwolle,Comfort Twin Room,125.73,787,8.7,Zwolle,Overijssel
+514,Bnb de rode kamer,Double Room with Shared Bathroom,67.35,43,8.0,Zwolle,Overijssel
+515,Bed & Breakfast 'Aan de IJssel',Double Room with Shared Shower and Toilet,71.84,142,8.3,Zwolle,Overijssel
+516,B&B de Luwte Cottage,Comfort Double Room,79.93,151,8.1,Zwolle,Overijssel
+517,Hotel Oldenburg,Standard Double Room with External Toilet,80.83,422,8.1,Zwolle,Overijssel
+518,Hotel Fidder - Patrick's Whisky Bar,Twin Room,86.22,1537,8.2,Zwolle,Overijssel
+519,Buitenplaats de Luwte,Deluxe Twin Room,93.85,316,8.2,Zwolle,Overijssel
+520,Stadslogement Bij de Sassenpoort,Superior Apartment,97.89,232,8.4,Zwolle,Overijssel
+521,Mercure Hotel Zwolle,Standard Double Room,112.26,1402,7.7,Zwolle,Overijssel
+522,The Cabin at Zwolle Centraal,Double Room with Private Bathroom,67.35,149,7.2,Zwolle,Overijssel
+523,Hanze Hotel Zwolle,Standard Twin Room,85.68,1095,7.2,Zwolle,Overijssel
+524,Campanile Hotel & Restaurant Zwolle,Double Room,75.57,2071,6.4,Zwolle,Overijssel
